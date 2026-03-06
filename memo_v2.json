@@ -1,0 +1,15 @@
+{
+  "account_id": "001",
+  "company_name": "ABC Fire Protection",
+  "business_hours": "Mon-Fri 8AM-6PM",
+  "services_supported": [
+    "sprinkler repair",
+    "fire alarm inspection"
+  ],
+  "emergency_definition": [
+    "sprinkler leak",
+    "fire alarm triggered",
+    "pipe burst"
+  ],
+  "questions_or_unknowns": []
+}
