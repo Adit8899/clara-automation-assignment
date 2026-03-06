@@ -1,5 +1,0 @@
-Client: Our updated business hours are Monday to Friday from 8 AM to 6 PM.
-
-Emergency calls also include pipe bursts.
-
-If transfer fails after 60 seconds, dispatch should be notified.
